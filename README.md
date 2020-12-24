@@ -4,6 +4,7 @@ This github is not managed by the real Teax.
 Join the Discord Server: https://discord.gg/Swbp9CAWUa  
 
 # Phantom Forces
+```lua
 getgenv().Settings = {  
   SilentAim = {  
     SilentAim = true,  
@@ -22,3 +23,4 @@ getgenv().Settings = {
   }  
 }  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Teax-Hub/Main/main/Phantom%20Forces.lua", true))()
+```
