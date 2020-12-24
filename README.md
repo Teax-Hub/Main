@@ -6,7 +6,7 @@ Join the Discord Server: https://discord.gg/Swbp9CAWUa
 This loadstring will be updated whenever Teax releases an update.  
 
 # Phantom Forces
-The loadstring DOES NOT have the settings. Make sure to paste the settings with the loadstring.  
+The loadstring DOES NOT have the settings. Make sure to copy everything below.  
 ```lua
 getgenv().Settings = {  
   SilentAim = {  
