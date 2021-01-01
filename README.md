@@ -4,6 +4,9 @@ This github is not managed by the real Teax.
 Join the Discord Server: https://discord.gg/Swbp9CAWUa  
 
 **Updated 12/31/20**  
+Unpatched  
+Bug Fixes  
+Performance Improvements  
 
 This loadstring will be updated whenever Teax releases an update.  
 
